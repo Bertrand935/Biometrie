@@ -1,0 +1,7 @@
+---
+title: "Bertelettes"
+author: "Juliette, Félix, Bertrand"
+date: "2025-03-28"
+output: html_document
+---
+modélisation en 8 étapes
